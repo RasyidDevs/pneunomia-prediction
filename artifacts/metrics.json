@@ -1,0 +1,22 @@
+{
+    "MobileNetV2":{
+            "accuracy": 0.89,
+            "precision_positive_pneumonia": 0.91,
+            "recall_positive_pneumonia": 0.91,
+            "f1_positive_pneumonia": 0.91,
+            "precision_positive_normal": 0.85,
+            "recall_positive_normal": 0.85,
+            "f1_positive_normal": 0.85
+    },
+    "ResNet50V2":{
+        "accuracy": 0.87,
+        "precision_positive_pneumonia": 0.84,
+        "recall_positive_pneumonia": 0.96,
+        "f1_positive_pneumonia": 0.90,
+        "precision_positive_normal": 0.92,
+        "recall_positive_normal": 0.70,
+        "f1_positive_normal": 0.80
+    }
+
+
+}

@@ -1,0 +1,18 @@
+2025-11-29 13:11:02,027 - Running Pipeline - INFO - Model ResNet50V2 successfully loaded
+2025-11-29 13:11:02,028 - Running Pipeline - INFO - Processing images...
+2025-11-29 13:11:02,304 - Running Pipeline - INFO - Processing images done!
+2025-11-29 13:11:05,932 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:11:06,196 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:11:06,422 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:11:06,676 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:11:06,927 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:11:07,160 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:03,332 - Running Pipeline - INFO - Model ResNet50V2 successfully loaded
+2025-11-29 13:21:03,332 - Running Pipeline - INFO - Processing images...
+2025-11-29 13:21:03,503 - Running Pipeline - INFO - Processing images done!
+2025-11-29 13:21:07,095 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:07,303 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:07,514 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:07,726 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:07,935 - Running Pipeline - INFO - Inferencing successfully done!
+2025-11-29 13:21:08,138 - Running Pipeline - INFO - Inferencing successfully done!
