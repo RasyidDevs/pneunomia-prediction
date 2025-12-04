@@ -56,3 +56,5 @@ uvicorn app:app --host 0.0.0.0 --port 8003 --reload
 streamlit run Home.py
 ```
 
+Link Presentation: https://docs.google.com/presentation/d/1CWCaslLblDo6BTzwW9JjHJ8nX9SY8i6h/edit?usp=sharing&ouid=100942299571079034891&rtpof=true&sd=true
+
